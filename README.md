@@ -56,7 +56,7 @@
 
   - ##### [on Ainize](https://ainize.ai/Wook-2/callapi)
 
-  - ##### [endpoint](https://master-callapi-wook-2.endpoint.ainize.ai/)
+  - ##### [Demo page](https://master-callapi-wook-2.endpoint.ainize.ai/)
 
 - ``Random-Augment``  
   : 모델을 학습시킬 때 이미지의 갯수를 늘리기 위한 `Augment`를 해주는 프로젝트이다.  
@@ -67,5 +67,5 @@
 
   - ##### [on Ainize](https://ainize.ai/Wook-2/RandomAugmentation)
 
-  - ##### [endpoint](https://master-random-augmentation-wook-2.endpoint.ainize.ai/)
+  - ##### [Demo page](https://master-random-augmentation-wook-2.endpoint.ainize.ai/)
 
